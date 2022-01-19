@@ -1,0 +1,1 @@
+As part of the curriculum for Launch School's JS100 JavaScript Intro course. 
